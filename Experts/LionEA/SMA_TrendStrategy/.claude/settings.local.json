@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//d/MetaTrader 5/MQL5/**)",
+      "Bash(gh repo create:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "Bash(gh issue create:*)",
+      "Bash(\"/c/Program Files/GitHub CLI/gh.exe\":*)",
+      "Bash(gh issue edit:*)",
+      "Bash(gh label:*)",
+      "Bash(gh issue list:*)",
+      "Bash(sed:*)",
+      "Bash(/c/Program\\ Files/GitHub\\ CLI/gh.exe issue create:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
